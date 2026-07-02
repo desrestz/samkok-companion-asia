@@ -1,0 +1,45 @@
+{
+  "id": "daqiao",
+  "code": "DAQIAO",
+  "name": {
+    "th": "ไต้เกี้ยว",
+    "en": "",
+    "cn": ""
+  },
+  "rarity": "S+",
+  "faction": "",
+  "class": "",
+  "position": [],
+  "account": {
+    "owned": true,
+    "level": 0,
+    "stars": 0,
+    "power": 0
+  },
+  "stats": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "speed": 0
+  },
+  "bond": [],
+  "skills": [],
+  "talents": [],
+  "tier": {
+    "story": "",
+    "arena": "",
+    "boss": ""
+  },
+  "rating": {
+    "story": 0,
+    "arena": 0,
+    "boss": 0,
+    "investment": 0
+  },
+  "recommend": {
+    "equipment": [],
+    "artifact": [],
+    "teammates": []
+  },
+  "tags": []
+}
